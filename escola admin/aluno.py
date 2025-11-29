@@ -1,3 +1,4 @@
+#versão modificada do meu projeto
 class Aluno:
     def __init__(self, nome, RA, nota1, nota2):
         self.nome = nome
@@ -30,4 +31,5 @@ class Aluno:
     pass
 
 #FI = Aluno(nome= input('nome:'), RA= input('RA:'), nota1= int(input('sua nota 1:')), nota2= int(input('sua nota2:')))
+
 #FI.ficha_aluno()
